@@ -24,7 +24,17 @@
         "label": "Coding Duck Light",
         "uiTheme": "vs",
         "path": "./themes/coding-duck-light-color-theme.json"
+      },
+      {
+        "label": "Coding Duck Dark",
+        "uiTheme": "vs",
+        "path": "./themes/coding-duck-dark-color-theme.json"
       }
-    ]
+    ],
+    "configuration": {
+      "defaults": {
+        "workbench.colorTheme": "Coding Duck Dark"
+      }
+    }
   }
 }
