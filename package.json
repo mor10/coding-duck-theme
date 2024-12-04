@@ -1,0 +1,21 @@
+{
+  "name": "coding-duck-light",
+  "displayName": "Coding Duck Light",
+  "description": "Duck-themed light VS Code theme for people who like ducks.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Coding Duck Light",
+        "uiTheme": "vs",
+        "path": "./themes/coding-duck-light-color-theme.json"
+      }
+    ]
+  }
+}
