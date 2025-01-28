@@ -3,6 +3,7 @@
   "displayName": "Coding Duck",
   "description": "Light and dark VS Code themes inspired by ducks for people who like ducks.",
   "version": "0.0.1",
+  "publisher": "mor10",
   "repository": {
     "type": "git",
     "url": "https://github.com/mor10/coding-duck-theme"
