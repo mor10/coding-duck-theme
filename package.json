@@ -1,7 +1,7 @@
 {
   "name": "coding-duck-theme",
   "displayName": "Coding Duck",
-  "description": "Duck-themed VS Code theme for people who like ducks. You choose: Light Duck or Dark Duck",
+  "description": "Light and dark VS Code themes inspired by ducks for people who like ducks.",
   "version": "0.0.1",
   "repository": {
     "type": "git",
@@ -15,6 +15,11 @@
   "engines": {
     "vscode": "^1.95.0"
   },
+  "homepage": "https://github.com/mor10/coding-duck-theme/blob/main/README.md",
+  "bugs": {
+    "url": "https://github.com/mor10/coding-duck-theme/issues"
+  },
+  "icon": "images/coding-duck-logo.png",
   "categories": [
     "Themes"
   ],
